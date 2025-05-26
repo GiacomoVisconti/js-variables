@@ -8,7 +8,7 @@ const hello = 'hello'; // NON MODIFICARE QUESTA RIGA
 // il carattere Y nella variabile city
 
 //!spero di aver capito bene la richiesta
-const cityIndex = 4;
+const cityIndex = city.indexOf("Y");
 console.log(cityIndex); // Output: 4
 console.log(city.charAt(cityIndex));
 
