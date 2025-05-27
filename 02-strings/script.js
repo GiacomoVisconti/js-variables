@@ -1,19 +1,18 @@
 // 1. Dichiarazione di variabili
 // Crea una variabile chiamata name e assegnale il tuo nome.
-// Stampa il valore di nome nella console.
-
 let name="Giacomo"
+// Stampa il valore di nome nella console.
 console.log(name);
+
 
 
 // 2. Tipi primitivi
 // Crea tre variabili chiamate number, text e bool e assegna rispettivamente
 // un numero, una stringa e un valore booleano.
-// Stampa tutti i valori nella console.
 let number=21
 let text="pippo"
 let bool= true
-
+// Stampa tutti i valori nella console.
 console.log(number);
 console.log(text);
 console.log(bool);
